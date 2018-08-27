@@ -1,10 +1,4 @@
-function SkillTimeline() {
 
-}
-
-class SkillCategory {
-
-}
 
 function SkillTimelinetBuilder() {
 }
